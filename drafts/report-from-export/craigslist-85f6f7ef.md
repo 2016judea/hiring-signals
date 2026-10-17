@@ -1,9 +1,9 @@
-DRAFT — NOT SENT
+SCHEDULED 10/27/2026 11:37:00 CT — Zoho message 1792271445841155000
 
-To: (not found yet) — Reply through the Craigslist posting (the reply address is behind its Reply button): https://www.craigslist.org/view/d/saint-paul-accounts-receivable/nLVghcHprE2msmh52vak33
+To: mvaughn@sandsp.com (source: https://www.sandsp.com/contact.html)
 Subject: "Analyze customer financial information in Sage 300"
 
-Hi,
+Hi Marty,
 
 Your posting for the "Accounts Receivable Specialist-Entry-Level" job lists this as part of the work: "Analyze customer financial information in Sage 300."
 
@@ -13,3 +13,4 @@ Here it is, already done on a service company's work-order export: https://repor
 
 Best,
 Aidan
+https://randomaidan.substack.com/p/business-prototypes

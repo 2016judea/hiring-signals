@@ -1,6 +1,6 @@
-DRAFT — NOT SENT
+SCHEDULED 10/27/2026 09:21:00 CT — Zoho message 1792271420744138300
 
-To: (not found yet) — Reply through the Craigslist posting (the reply address is behind its Reply button): https://www.craigslist.org/view/d/saint-paul-tcl-seasonal-sales-specialist/81dQvkdKAMsv3Jx43rg3n8
+To: jobs@actionlink.com (source: https://actionlink.com/contact-us/)
 Subject: "Log your wins with quick, accurate visit reports"
 
 Hi,
@@ -13,3 +13,4 @@ Here it is, already done on a service company's work-order export: https://repor
 
 Best,
 Aidan
+https://randomaidan.substack.com/p/business-prototypes

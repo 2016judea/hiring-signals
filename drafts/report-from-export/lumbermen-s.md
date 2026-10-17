@@ -1,9 +1,9 @@
-DRAFT — NOT SENT
+SCHEDULED 10/26/2026 14:25:00 CT — Zoho message 1792271411723155300
 
-To: (not found yet) — Find the hiring manager or owner; the posting itself has no email: https://job-boards.greenhouse.io/lumbermens/jobs/5361248008
+To: davidjohnson@lumbermens-inc.com (source: https://www.lumbermens-inc.com/minnesota/)
 Subject: "Conducting and communicating current pricing and margin data and…"
 
-Hi,
+Hi David,
 
 Your posting for the "Regional Sales Manager for Doors" job lists this as part of the work: "Conducting and communicating current pricing and margin data and using this data to inform sound decision-making."
 
@@ -13,3 +13,4 @@ Here it is, already done on a service company's work-order export: https://repor
 
 Best,
 Aidan
+https://randomaidan.substack.com/p/business-prototypes

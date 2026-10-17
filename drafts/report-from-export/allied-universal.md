@@ -1,4 +1,4 @@
-DRAFT — NOT SENT
+DRAFT — NOT SENT — HOLD (form only): aus.com/contact-us
 
 To: (not found yet) — Reply through the Craigslist posting (the reply address is behind its Reply button): https://www.craigslist.org/view/d/minneapolis-security-officer-part-time/lt9n7f7E8RG939NAP_rhbQ
 Subject: "Prepare clear, accurate reports and maintain required activity logs…"

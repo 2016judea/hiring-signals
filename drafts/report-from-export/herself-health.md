@@ -1,6 +1,6 @@
-DRAFT — NOT SENT
+SCHEDULED 10/27/2026 11:03:00 CT — Zoho message 1792271440181155300
 
-To: (not found yet) — Find the hiring manager or owner; the posting itself has no email: https://job-boards.greenhouse.io/herselfhealth/jobs/4720391006
+To: hello@herself-health.com (source: https://herself-health.com/accessibility)
 Subject: "Tracking/reporting outreach activity, referrals and patient…"
 
 Hi,
@@ -13,3 +13,4 @@ Here it is, already done on a service company's work-order export: https://repor
 
 Best,
 Aidan
+https://randomaidan.substack.com/p/business-prototypes

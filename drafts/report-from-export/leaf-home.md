@@ -1,4 +1,4 @@
-DRAFT — NOT SENT
+DRAFT — NOT SENT — HOLD (form only): only media@ and ADA-recruiting addresses published
 
 To: (not found yet) — Reply through the Craigslist posting (the reply address is behind its Reply button): https://www.craigslist.org/view/d/eden-prairie-field-canvassing/6Lk0ZWO98RGng51POViGYw
 Subject: "Report daily results to the field management team"

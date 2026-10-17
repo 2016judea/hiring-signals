@@ -1,4 +1,4 @@
-DRAFT — NOT SENT
+DRAFT — NOT SENT — DROP: posting is Austin TX, not Twin Cities; form only
 
 To: (not found yet) — Find the hiring manager or owner; the posting itself has no email: https://jobs.lever.co/stanleygroup/b74937a1-975d-453d-a47f-c6624215a825
 Subject: "Assist in pricing, estimating, and scoping for proposed control…"

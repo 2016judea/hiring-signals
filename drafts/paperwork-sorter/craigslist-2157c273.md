@@ -1,4 +1,4 @@
-DRAFT — NOT SENT
+DRAFT — NOT SENT — HOLD (phone only): OTR trucking out of TX, phone only; rule 16, no texting
 
 To: (not found yet) — Reply through the Craigslist posting (the reply address is behind its Reply button): https://www.craigslist.org/view/d/minneapolis-experienced-cdl-drivers/gVULzv4joVQK4psHrRnsFm
 Subject: "Maintain accurate logs and delivery paperwork"

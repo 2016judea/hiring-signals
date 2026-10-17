@@ -1,4 +1,4 @@
-DRAFT — NOT SENT
+DRAFT — NOT SENT — HOLD: only info@cppcorp.com, published as the privacy-policy contact
 
 To: (not found yet) — Reply through the Craigslist posting (the reply address is behind its Reply button): https://www.craigslist.org/view/d/minneapolis-accounting-manager-new-site/NMh-pl-98RGAlNOVMtqAQg
 Subject: "Manage general accounting functions and prepare financial reports and…"

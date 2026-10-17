@@ -1,6 +1,6 @@
-DRAFT — NOT SENT
+SCHEDULED 10/26/2026 13:00:00 CT — Zoho message 1792271391669138400
 
-To: (not found yet) — Reply through the Craigslist posting (the reply address is behind its Reply button): https://www.craigslist.org/view/d/minneapolis-toyota-digital-sales/crAPYZi98RGW_fduNxvZDw
+To: Recruiting@Walser.com (source: https://walsercareers.com/)
 Subject: "Create and manage daily, weekly, and monthly reporting across key…"
 
 Hi,
@@ -13,3 +13,4 @@ Here it is, already done on a service company's work-order export: https://repor
 
 Best,
 Aidan
+https://randomaidan.substack.com/p/business-prototypes

@@ -1,6 +1,6 @@
-DRAFT — NOT SENT
+SCHEDULED 10/27/2026 09:55:00 CT — Zoho message 1792271428241155300
 
-To: (not found yet) — Reply through the Craigslist posting (the reply address is behind its Reply button): https://www.craigslist.org/view/d/rogers-restaurant-assistant-general/rp8p8sXbdWBi3CDVJ1k42t
+To: info@rsocialonmain.com (source: https://rsocialonmain.com/)
 Subject: "daily operational reporting"
 
 Hi,
@@ -13,3 +13,4 @@ Here it is, already done on a service company's work-order export: https://repor
 
 Best,
 Aidan
+https://randomaidan.substack.com/p/business-prototypes

@@ -1,9 +1,9 @@
-DRAFT — NOT SENT
+SCHEDULED 10/27/2026 11:20:00 CT — Zoho message 1792271443047138400
 
-To: (not found yet) — Reply through the Craigslist posting (the reply address is behind its Reply button): https://www.craigslist.org/view/d/minneapolis-food-beverage-samplers/iAUskCx62nQ78NxDCvE2ik
+To: jon@samplersinc.com (source: the Craigslist posting (Manager Contact Information))
 Subject: "Complete required reporting after each event"
 
-Hi,
+Hi Jon,
 
 Your posting for the "Food & Beverage Samplers (Brand Ambassador)" job lists this as part of the work: "Complete required reporting after each event."
 
@@ -13,3 +13,4 @@ Here it is, already done on a service company's work-order export: https://repor
 
 Best,
 Aidan
+https://randomaidan.substack.com/p/business-prototypes

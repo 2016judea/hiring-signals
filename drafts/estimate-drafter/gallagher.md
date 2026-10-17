@@ -1,4 +1,4 @@
-DRAFT — NOT SENT
+DRAFT — NOT SENT — HOLD (form only): ajg.com/us/contact-us national form, no careers inbox
 
 To: (not found yet) — Reply through the Craigslist posting (the reply address is behind its Reply button): https://www.craigslist.org/view/d/eden-prairie-sales-assistant/FsMWGtW08RGdOaV957UkYw
 Subject: "Prepare bid specifications for existing clients and review…"

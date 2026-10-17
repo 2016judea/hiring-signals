@@ -1,4 +1,4 @@
-DRAFT — NOT SENT
+DRAFT — NOT SENT — HOLD: only address is the Rogers branch orders inbox (demand line, rule 9)
 
 To: (not found yet) — Reply through the Craigslist posting (the reply address is behind its Reply button): https://www.craigslist.org/view/d/rogers-assistant-branch-manager/IHUl4lfC8RGjGsmi0IG_uA
 Subject: "Generate and review branch performance reports, including financial…"

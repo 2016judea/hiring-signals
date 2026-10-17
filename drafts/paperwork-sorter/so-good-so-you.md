@@ -1,4 +1,4 @@
-DRAFT — NOT SENT
+DRAFT — NOT SENT — HOLD (form only): only digital@ privacy inbox published
 
 To: (not found yet) — Find the hiring manager or owner; the posting itself has no email: https://jobs.lever.co/sogoodsoyou/3a7d5af0-ebcd-410a-ae77-99a0d3aa59cc
 Subject: "Track freight invoice detail & own inputting into QBE, in partnership…"

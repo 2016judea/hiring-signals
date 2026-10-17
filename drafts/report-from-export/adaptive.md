@@ -1,6 +1,6 @@
-DRAFT — NOT SENT
+SCHEDULED 10/27/2026 10:12:00 CT — Zoho message 1792271431172155000
 
-To: (not found yet) — Find the hiring manager or owner; the posting itself has no email: https://jobs.ashbyhq.com/fira-health/c5e0c0c7-7ed7-41c8-bf7c-7b5e5231991f
+To: info@adaptivehh.com (source: https://www.adaptivehh.com/careers/)
 Subject: "Report territory performance to your RSM with data-backed insights…"
 
 Hi,
@@ -13,3 +13,4 @@ Here it is, already done on a service company's work-order export: https://repor
 
 Best,
 Aidan
+https://randomaidan.substack.com/p/business-prototypes

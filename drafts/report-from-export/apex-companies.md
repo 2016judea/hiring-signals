@@ -1,6 +1,6 @@
-DRAFT — NOT SENT
+SCHEDULED 10/27/2026 10:29:00 CT — Zoho message 1792271434242138300
 
-To: (not found yet) — Find the hiring manager or owner; the posting itself has no email: https://job-boards.greenhouse.io/apexcompaniescsw/jobs/5429715008
+To: info@apexcos.com (source: https://www.apexcos.com/)
 Subject: "Prepare reports and document work in the field using Apex proprietary…"
 
 Hi,
@@ -13,3 +13,4 @@ Here it is, already done on a service company's work-order export: https://repor
 
 Best,
 Aidan
+https://randomaidan.substack.com/p/business-prototypes

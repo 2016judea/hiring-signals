@@ -1,4 +1,4 @@
-DRAFT — NOT SENT
+DRAFT — NOT SENT — HOLD: no inbox; posting offers only a careers-fraud address
 
 To: (not found yet) — Reply through the Craigslist posting (the reply address is behind its Reply button): https://www.craigslist.org/view/d/saint-paul-test-engineer/nhFmfP298RGHHeYjimZAtA
 Subject: "Analyze defect patterns and test metrics to identify quality trends…"

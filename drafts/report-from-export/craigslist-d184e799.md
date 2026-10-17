@@ -1,4 +1,4 @@
-DRAFT — NOT SENT
+DRAFT — NOT SENT — HOLD (phone only): posting gives only (952) 887-1613; relay also captcha-gated; rule 16
 
 To: (not found yet) — Reply through the Craigslist posting (the reply address is behind its Reply button): https://www.craigslist.org/view/d/minneapolis-assistant-manager-call/fi93hS8GQPTF41LGYqeAui
 Subject: "Tracking statistics and analysis of staff activities"

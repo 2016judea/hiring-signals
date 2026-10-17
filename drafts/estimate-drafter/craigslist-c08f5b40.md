@@ -1,4 +1,4 @@
-DRAFT — NOT SENT
+DRAFT — NOT SENT — HOLD (phone only): posting gives only 512-426-6902; rule 16
 
 To: (not found yet) — Reply through the Craigslist posting (the reply address is behind its Reply button): https://www.craigslist.org/view/d/minneapolis-property-preservation/ip1zoDtxvEfotNi3wGQzxM
 Subject: "bidding"

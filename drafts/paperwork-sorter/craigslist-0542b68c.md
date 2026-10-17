@@ -1,4 +1,4 @@
-DRAFT — NOT SENT
+DRAFT — NOT SENT — HOLD (relay only): Berglund Law Office; own site has a form, email only on a third-party directory; CL reply panel is captcha-gated headless
 
 To: (not found yet) — Reply through the Craigslist posting (the reply address is behind its Reply button): https://www.craigslist.org/view/d/minneapolis-part-time-legal-assistant/1D254rRguJKyiQGYHKn6Yn
 Subject: "Ability to prepare invoices, process and track payments"

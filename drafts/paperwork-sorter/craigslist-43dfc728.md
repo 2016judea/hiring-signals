@@ -1,4 +1,4 @@
-DRAFT — NOT SENT
+DRAFT — NOT SENT — HOLD (relay only): Craigslist reply panel is hCaptcha-gated headless, no relay address exposed (tested 10/17)
 
 To: (not found yet) — Reply through the Craigslist posting (the reply address is behind its Reply button): https://www.craigslist.org/view/d/minneapolis-office-manager-for-property/ccakvMqHk8UyAinK3GaMAH
 Subject: "Coordinate resident move-ins and prepare move-in paperwork and packets"

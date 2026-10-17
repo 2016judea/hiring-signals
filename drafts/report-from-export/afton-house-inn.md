@@ -1,6 +1,6 @@
-DRAFT — NOT SENT
+SCHEDULED 10/26/2026 13:17:00 CT — Zoho message 1792271399325155100
 
-To: (not found yet) — Reply through the Craigslist posting (the reply address is behind its Reply button): https://www.craigslist.org/view/d/afton-executive-chef-line-cook/ezAZNzWiqGqAZNn419GEZh
+To: info@aftonhouseinn.com (source: https://aftonhouseinn.com/contact-us/)
 Subject: "food and labor cost control"
 
 Hi,
@@ -13,3 +13,4 @@ Here it is, already done on a service company's work-order export: https://repor
 
 Best,
 Aidan
+https://randomaidan.substack.com/p/business-prototypes
