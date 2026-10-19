@@ -92,11 +92,25 @@ Aidan
             (d / f"{slug(emp or 'craigslist-' + token)}.md").write_text(body)
         (DESK / tool / "leads.json").write_text(json.dumps(leads, indent=1))
         print(tool, len(leads), "leads")
-    with (ROOT / "leads.csv").open("w", newline="") as f:
-        w = csv.DictWriter(f, fieldnames=list(rows[0]))
-        w.writeheader()
-        w.writerows(rows)
+    write_leads(ROOT / "leads.csv", rows)
     print(len(rows), "rows ->", ROOT / "leads.csv")
+
+
+def write_leads(path, rows):
+    """Write leads.csv, keeping every column this script does not compute (the campaign's status,
+    to, scheduled_for, zoho_message_id, note) from the file already there, matched on for_page.
+    A plain rewrite dropped them all on a rerun (2026-10-18)."""
+    old = {}
+    if path.exists():
+        with path.open() as f:
+            old = {r["for_page"]: r for r in csv.DictReader(f)}
+    cols = list(rows[0])
+    extra = [c for c in (next(iter(old.values())) if old else {}) if c not in cols]
+    out = [{**r, **{c: old.get(r["for_page"], {}).get(c, "") for c in extra}} for r in rows]
+    with path.open("w", newline="") as f:
+        w = csv.DictWriter(f, fieldnames=cols + extra)
+        w.writeheader()
+        w.writerows(out)
 
 
 if __name__ == "__main__":
